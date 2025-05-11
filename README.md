@@ -1,0 +1,1 @@
+Personal website, build with [Astro Nano](https://github.com/markhorn-dev/astro-nano)
